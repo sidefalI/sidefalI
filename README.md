@@ -28,5 +28,8 @@
 </p> <img src= "https://files.catbox.moe/0kvvpz.png"  width="100" align="left">  <img src="https://files.catbox.moe/xugorb.png" width="110" align="left"> <img src= "https://files.catbox.moe/ry7ogr.png" width="100" align="left"> 
 
 </br>
+<p align="center">
+    
+<img src="https://files.catbox.moe/qkneyo.png" width="350" >
 
 <img src= "https://files.catbox.moe/ga6pxr.png" width="900">
