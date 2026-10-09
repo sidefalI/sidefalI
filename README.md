@@ -46,7 +46,7 @@
             <img src="https://files.catbox.moe/4box15.png" width="50" height="~" alt="STAGE I">
         ㅤ<br>
         $\color{#FFFFFF}{\textsf{Ash - Flux ,, He/They/She}}$<br>
-        $\color{#FFFFFF}{\textsf{agender . aroace }}$<br>
+        $\color{#FFFFFF}{\textsf{placeholder placeholder placeholder placeholder  }}$<br>
         $\color{#FFFFFF}{\textsf{ no gender pref. }}$<br>
         $\color{#FFFFFF}{\textsf{ 4w5 so/sx 459 }}$<br>
         $\color{#FFFFFF}{\textsf{16 . American . CST }}$<br>
