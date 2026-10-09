@@ -35,7 +35,7 @@
 </br>
 </br>
 
-<img src="https://komarev.com/ghpvc/?username=witheringheights&style=flat-square&color=442762&label=loyal-goons" alt="profile view counter" width="100" align="left"> </br>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://komarev.com/ghpvc/?username=witheringheights&style=flat-square&color=442762&label=loyal-goons" alt="profile view counter" width="100" align="CENTER"> </br>
 </br>
 </br>
 </br>
