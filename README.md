@@ -43,7 +43,7 @@
 <table border="0" align="left" style="margin-bottom 20" style="margin-right 2">
     <tr align="left"></tr>
       <th>
-            <img src="https://files.catbox.moe/p4vpdv.png" width="50" height="~" alt="STAGE I">
+            <img src="https://files.catbox.moe/p4vpdv.png" width="60" height="~" alt="STAGE I">
         ㅤ<br>
         $\color{#FFFFFF}{\textsf{shoutout to my parasocial fans: }}$<br>
         $\color{#FFFFFF}{\textsf{ emariyaoi , raddogs , infinitelygrey  }}$<br>
@@ -56,5 +56,8 @@
     </table>
 <span style="clear: both" />
      </br>
-
+</br>
+</br>
+</p> <img src= "https://files.catbox.moe/0kvvpz.png"  width="100" align="left">  <img src="https://files.catbox.moe/xugorb.png" width="110" align="center"> <img src= "https://files.catbox.moe/ry7ogr.png" width="100" align="center"> 
+    
 <img src= "https://files.catbox.moe/ga6pxr.png" width="900">
