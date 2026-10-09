@@ -30,7 +30,15 @@
 </br>
 <p align="center">
     
-<img src="https://files.catbox.moe/qkneyo.png" width="350" align="right">
+<img src="https://files.catbox.moe/qkneyo.png" width="350" align="right"> 
+‎</br>
+</br>
+</br>
+
+<img src="https://komarev.com/ghpvc/?username=witheringheights&style=flat-square&color=442762&label=loyal-goons" alt="profile view counter" width="100" align="left"> </br>
+</br>
+</br>
+</br>
 
 <table border="0" align="left" style="margin-bottom 20" style="margin-right 2">
     <tr align="left"></tr>
