@@ -30,7 +30,7 @@
 </br>
 <p align="center">
     
-<img src="https://files.catbox.moe/qkneyo.png" width="350" >
+<img src="https://files.catbox.moe/qkneyo.png" width="350" align="right">
 
 <table border="0" align="left" style="margin-bottom 20" style="margin-right 2">
     <tr align="left"></tr>
