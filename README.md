@@ -43,13 +43,14 @@
 <table border="0" align="left" style="margin-bottom 20" style="margin-right 2">
     <tr align="left"></tr>
       <th>
-            <img src="https://files.catbox.moe/4box15.png" width="50" height="~" alt="STAGE I">
+            <img src="https://files.catbox.moe/p4vpdv.png" width="50" height="~" alt="STAGE I">
         ㅤ<br>
-        $\color{#FFFFFF}{\textsf{Ash - Flux ,, He/They/She}}$<br>
-        $\color{#FFFFFF}{\textsf{placeholder placeholder placeholder placeholder  }}$<br>
-        $\color{#FFFFFF}{\textsf{ no gender pref. }}$<br>
-        $\color{#FFFFFF}{\textsf{ 4w5 so/sx 459 }}$<br>
-        $\color{#FFFFFF}{\textsf{16 . American . CST }}$<br>
+        $\color{#FFFFFF}{\textsf{shoutout to my parasocial fans: }}$<br>
+        $\color{#FFFFFF}{\textsf{ emariyaoi , raddogs , infinitelygrey  }}$<br>
+        $\color{#FFFFFF}{\textsf{ 100bottlesofglue , orcapaint }}$<br>
+        $\color{#FFFFFF}{\textsf{  }}$<br>
+        $\color{#FFFFFF}{\textsf{ + ty for the nominations }}$<br>
+        $\color{#FFFFFF}{\textsf{ title-town , pt-players }}$<br>
         ㅤ<br>
       </th>
     </table>
