@@ -25,7 +25,7 @@
 <span style="clear: both" />
      </br>
    
-</p> <img src= "https://files.catbox.moe/0kvvpz.png"  width="60" align="left"> <img src= "https://files.catbox.moe/ry7ogr.png" width="60" align="left"> <img src="https://files.catbox.moe/xugorb.png" width="80" align="left"> <img src="https://files.catbox.moe/6idh6z.png" width="60" align="left"> <img src="https://files.catbox.moe/hqmibt.png"  width="60" align="left"> </p>
+</p> <img src= "https://files.catbox.moe/0kvvpz.png"  width="100" align="left">  <img src="https://files.catbox.moe/xugorb.png" width="110" align="left"> <img src= "https://files.catbox.moe/ry7ogr.png" width="100" align="left"> 
 
 </br>
 
